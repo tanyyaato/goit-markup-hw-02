@@ -1,0 +1,30 @@
+body{
+font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color:#494A5D;
+    background-color: #E5E5E5;}
+    a{text-decoration: none;}
+    a:hover,a:focus{text-decoration: underline;}
+    ul{}
+          
+
+
+header{
+    background-color: #FFFFFF;}
+ .web{
+    font-family: "raleway";
+    font-weight: 700;
+    color: #4D5AE5;
+    text-transform: uppercase;
+ }   
+
+    
+
+.web-logo{
+    font-family: raleway;
+    text-decoration: none;
+    color: #2E2F42;
+    font-weight: 700;
+
+}

@@ -120,23 +120,16 @@ letter-spacing: 0.03em;
   text-decoration: underline;
   background-color: #404BBF;
  }
-
-
-
-
   /*-------------------------------------  */
+
  /*------------------features-------------------  */
  .features {
- }
-        
-   .f-main-hidden {
-   
+ }     
+   .f-main-hidden {   
     clip-path: inset(50%);
     height: 1px;
     overflow: hidden;
-    
  white-space: nowrap;
-   width: 1px;
     }
         
    .f-list {}
@@ -151,12 +144,15 @@ letter-spacing: 0.03em;
   color: #2e2f42;
   }
         
- .f-text {font-size: 16px;
+ .f-text {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
- color: #434455;}
+ color: #434455;
+}
           
   /* ------------------------------------ */
+
  /*------------------our team -------------------  */
   .our-team {
     background: #f4f4fd;

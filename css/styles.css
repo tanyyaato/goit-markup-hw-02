@@ -99,6 +99,7 @@ letter-spacing: 0.03em;
 
 .title {font-weight: 700;
     font-size: 56px;
+    text-align: center;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #fff;}
@@ -129,7 +130,7 @@ letter-spacing: 0.03em;
  }
         
    .f-main-hidden {
-    text-align: center
+   
     clip-path: inset(50%);
     height: 1px;
     overflow: hidden;

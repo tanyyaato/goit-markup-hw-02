@@ -127,9 +127,11 @@ letter-spacing: 0.03em;
  }     
    .f-main-hidden {   
     clip-path: inset(50%);
-    height: 1px;
-    overflow: hidden;
- white-space: nowrap;
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      white-space: nowrap;
+      width: 1px;
     }
         
    .f-list {}

@@ -1,5 +1,8 @@
 body {
-font-family: "Roboto", sans-serif;}
+    
+font-family: "Roboto", sans-serif;
+background-color: #fffff;
+color: #434455;}
 
   a {text-decoration: none;}  
   a:hover,
@@ -15,6 +18,7 @@ h3{
 }
   
  ul {list-style-type: none;
+   
      }
   p{
         font-size: 16px;
@@ -31,17 +35,17 @@ h3{
 
     .web {font-family: "Raleway", sans-serif;
     font-weight: 700;
+    text-transform: uppercase
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
-        text-transform: uppercase;
         color: #4d5ae5;}
 
     .web-logo {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
             font-size: 18px;
-            line-height: 1.16667;
+            line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
             color: #2e2f42;
@@ -91,13 +95,13 @@ h3{
 
 .title {font-weight: 700;
     font-size: 56px;
-    line-height: 1.07;
+    line-height: 1.10;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;}
 
 .btn {
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+ rgba(0, 0, 0, 0.15);
     background: #4d5ae5;}
   .service{
     font-weight: 500;
@@ -146,9 +150,9 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 
   .t-title {
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
+    
     color: #2e2f42;}
 
   .t-list {}
@@ -162,12 +166,9 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;}
 
   .team-text {
-    
-        text-align: center;
         color: #494a5d;
   }
 /* ------------------------------------- */
@@ -179,7 +180,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 
 .portfolio-name {
     font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -210,7 +211,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         sans-serif;;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;

@@ -36,7 +36,7 @@ h3{
 
  .web {font-family: "Raleway", sans-serif;
  font-weight: 700;
- text-transform: uppercase;
+text-transform:uppercase;
  font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
@@ -134,7 +134,7 @@ letter-spacing: 0.03em;
     clip-path: inset(50%);
     height: 1px;
     overflow: hidden;
-     position: absolute;
+    
  white-space: nowrap;
    width: 1px;
     }
@@ -167,7 +167,7 @@ letter-spacing: 0.03em;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize; 
+    text-transform: capitalize;
     color: #2e2f42;}
 
   .t-list {}

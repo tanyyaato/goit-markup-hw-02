@@ -129,6 +129,7 @@ letter-spacing: 0.03em;
  }
         
    .f-main-hidden {
+    text-align: center
     clip-path: inset(50%);
     height: 1px;
     overflow: hidden;
@@ -199,6 +200,7 @@ letter-spacing: 0.03em;
  letter-spacing: 0.02em;
 color: #2e2f42;
 text-transform: capitalize;
+text-align: center;
 }
 
 .oprtfolio-list {}

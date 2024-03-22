@@ -105,7 +105,7 @@ letter-spacing: 0.03em;
     color: #fff;}
 
 .btn {
-  font-family: inherit
+  font-family: inherit;
  rgba(0, 0, 0, 0.15);
  background: #4d5ae5;
  font-weight: 500;
@@ -127,11 +127,10 @@ letter-spacing: 0.03em;
  }     
    .f-main-hidden {   
     clip-path: inset(50%);
-      height: 1px;
+      
       overflow: hidden;
-      position: absolute;
       white-space: nowrap;
-      width: 1px;
+      
     }
         
    .f-list {}

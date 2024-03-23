@@ -7,7 +7,7 @@ color: #434455;}
   a {text-decoration: none;}  
   a:hover,
   a:focus{
-    text-decoration: underline;
+    text-decoration: none;
     color: #404bbf;
   }
 h2{
